@@ -1,5 +1,5 @@
 {
-  "name": "karma-jasmine",
+  "name": "karma-jasmine2",
   "version": "0.3.6",
   "description": "A Karma plugin - adapter for Jasmine testing framework.",
   "main": "lib/index.js",
